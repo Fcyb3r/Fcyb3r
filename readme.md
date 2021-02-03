@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Koç</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
-- 🔭 I’m currently working on **at home**
-
 - 🌱 I’m currently learning **Java,Unity,C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fcyb3r](https://github.com/Fcyb3r)
