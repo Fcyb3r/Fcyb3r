@@ -3,7 +3,9 @@
 
 - 🤞 I’m currently working on **Arduino**
 
-- 💻 I’m currently learning **Java,C#,Unity,Arduino**
+- 💻 I’m currently learning **Java,C#,Unity,Arduino,Python**
+
+- 🤝 I’m looking for help with [fcyber akademi](https://www.youtube.com/channel/UCh2IOrq18pP-m1eH1FjwJQA)
 
 - 📩 How to reach me **omerfcyber35@gmail.com**
 
