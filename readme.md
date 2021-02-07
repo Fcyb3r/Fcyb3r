@@ -3,13 +3,11 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=fcyb3r&label=Profile%20views&color=0e75b6&style=flat" alt = "fcyb3r" /> </p>
 
-<p align = "left"> <a href = "https : //github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=fcyb3r "alt =" fcyb3r "/> < / a> </p>
-
 - 🤞 Şu anda ** arduino ** üzerinde çalışıyorum
 
 - 💻 Şu anda öğreniyorum ** Java, Unity, C #, Arduino **
 
-- 👨‍💻 Tüm projelerime [ https://github.com/Fcyb3r](https://github.com / Fcyb3r)
+- 👨‍💻 Tüm projelerime [https://github.com/Fcyb3r](https://github.com/Fcyb3r) adresinden ulaşılabilir
 
 - 📫 Bana nasıl ulaşılır **omerfcyber35@gmail.com**
 
