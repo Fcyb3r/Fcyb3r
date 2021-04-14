@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer faruk koç</h1>
+ <h1 align="center">Hi 👋, I'm Ömer faruk koç</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
 - ⚔ I’m currently working on **java**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/fcyber akademi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="fcyber akademi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCh2IOrq18pP-m1eH1FjwJQA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="fcyber akademi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
