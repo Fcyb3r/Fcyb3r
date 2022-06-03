@@ -1,5 +1,5 @@
  <div align="center">
- <h1 align="center">Hi 👋, I'm Ömer faruk koç</h1>
+ <h1 align="center">Hi 👋, I'm Ömer koç</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
 - ⚔ I’m currently working on **java**
